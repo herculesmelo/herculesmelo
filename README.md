@@ -7,7 +7,7 @@ Estudante de Ciência da Computação no UniCEUB (Início em 2026) e em constant
 
 ##  Sobre Mim
 
-Sou fascinado pela forma como a computação funciona sob o capô. Embora transite por stacks modernas de desenvolvimento, meu foco de estudo e interesse genuíno está voltado para **Arquitetura de Sistemas, Desenvolvimento de Compiladores e Emulação de Hardware**. 
+Sou fascinado pela forma como a computação funciona sob o capô. Embora transite por stacks modernas de desenvolvimento, meu foco de estudo e interesse genuíno está voltado para **Arquitetura de Sistemas. 
 
 Busco aplicar conceitos abstratos de lógica e matemática diretamente na construção de software robusto e eficiente, otimizando fluxos de trabalho e explorando o comportamento de sistemas computacionais em baixo nível.
 
