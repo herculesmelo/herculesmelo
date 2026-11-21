@@ -1,7 +1,7 @@
 # Olá, eu sou o Hércules Santos Melo 
 
 De Brasília, DF, Brasil 
-Estudante de Ciência da Computação no UniCEUB (Início em 2026) e em constante evolução através de projetos práticos e bootcamps de tecnologia.
+Estudante de Ciência da Computação no UniCEUB (Início em 2026) e em constante evolução através de projetos práticos.
 
 ---
 
